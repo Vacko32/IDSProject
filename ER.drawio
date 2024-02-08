@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T18:04:05.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="aUU9TqZko0Nkc5ebU_Sb" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T18:08:02.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="80INoBN_6bxDQNRN_L59" version="23.1.1" type="github">
   <diagram name="Stránka-1" id="X1sNEdFep92oIiNzu30c">
     <mxGraphModel dx="2612" dy="2287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -193,7 +193,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HGg9zmxM_SfcB0DRXpNT-87" value="Stav" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="HGg9zmxM_SfcB0DRXpNT-85" vertex="1">
+        <mxCell id="HGg9zmxM_SfcB0DRXpNT-87" value="Datum zacatku" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="HGg9zmxM_SfcB0DRXpNT-85" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -206,7 +206,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HGg9zmxM_SfcB0DRXpNT-90" value="TADY HODNE FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="HGg9zmxM_SfcB0DRXpNT-88" vertex="1">
+        <mxCell id="HGg9zmxM_SfcB0DRXpNT-90" value="Doba trvani" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="HGg9zmxM_SfcB0DRXpNT-88" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
